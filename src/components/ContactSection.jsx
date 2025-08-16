@@ -86,7 +86,7 @@ export const ContactSection = () => {
                 </h2>
 
                 <p className="text-center text-muted-foreground text-lg mb-12 max-w-2xl mx-auto">
-                    Feel free to reach out. I love to meet new people and I'm always open to chatting about new opportunities.
+                    Feel free to reach out! I love to meet new people and I'm always open to chatting about new opportunities.
                 </p>
 
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
